@@ -1,0 +1,7 @@
+{
+  "name": "dppApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
